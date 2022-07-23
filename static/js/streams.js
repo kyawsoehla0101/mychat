@@ -1,7 +1,7 @@
 
 const APP_ID = '837d82cf9ef64b0c96f2533611cd774f'
-const TOKEN = sessionStorage.getItem('006837d82cf9ef64b0c96f2533611cd774fIACk8DtjYLCmFDgLjFNxRZ1Sqt8jseWsygO1fEWQk98N1WTNKL8AAAAAEAAU3oYIELTcYgEAAQBhydxi')
-const CHANNEL = sessionStorage.getItem('main')
+const TOKEN = '006837d82cf9ef64b0c96f2533611cd774fIABx2QthjRG8u0W+ucZJQvRmjSbo0yXkgiAWCvZE7pSyZ2TNKL8AAAAAEAAU3oYIdMncYgEAAQDF3txi'
+const CHANNEL = 'main'
 let UID = sessionStorage.getItem('UID')
 
 let NAME = sessionStorage.getItem('name')
